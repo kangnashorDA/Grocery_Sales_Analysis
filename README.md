@@ -1,6 +1,9 @@
+![grocery_image](https://storage.googleapis.com/kaggle-datasets-images/6580985/10629383/e47b64f435ecff9177d9790ca85ff2d2/dataset-cover.png)
+
 # Grocery Sales Data Analysis: A Complete Documentation
 
 This project involves analyzing sales data to extract actionable insights. The dataset includes information about categories, countries, cities, customers, employees, products, and sales transactions. Below, you'll find the end-to-end process: from setting up the database to conducting data analysis and summarizing insights.
+
 
 ---
 
