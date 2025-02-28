@@ -1,4 +1,4 @@
-![grocery_image](https://storage.googleapis.com/kaggle-datasets-images/6580985/10629383/e47b64f435ecff9177d9790ca85ff2d2/dataset-cover.png)
+![grocery_image](https://github.com/kangnashorDA/Grocery_Sales_Analysis/blob/main/dataset-cover.png)
 
 # Grocery Sales Data Analysis: A Complete Documentation
 
